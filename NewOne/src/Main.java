@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         int x = 0;
         System.out.println(x);
+        int y = x+1;
     }
 }
